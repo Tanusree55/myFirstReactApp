@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      TANU ANE NENU OKA <p style={{backgroundColor : red}}>KOTHI</p> NI inka DUNNA PODHU NI
+      TANU ANE NENU OKA <p style={{backgroundColor : red}}>DEVATHA</p> NI.
     </>
   )
 }
